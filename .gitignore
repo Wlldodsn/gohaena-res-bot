@@ -219,3 +219,7 @@ __marimo__/
 
 # Mac OS
 .DS_Store
+
+# Project-specific: real personal info and Playwright session/cookie data
+config.env
+.browser-profile/
